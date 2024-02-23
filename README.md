@@ -1,16 +1,15 @@
-### Hi there 👋
+  Olá, sou Gustavo e estudo Ciências da Computação na Unimetrocamp
 
-<!--
-**GU5T4V00/GU5T4V00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Posso afirmar que não sou um dev experiente nem um pleno analista
+  mas busco apresentar o meu melhor a cada dia e me aprimorar cada 
+  vez mais
 
-Here are some ideas to get you started:
+  Experiência com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Python - automação de tarefas, web scraping, mysqlite e interface
+
+  C++ - em aprendizado mas já possuo o básico
+
+  Sql - Projeto básico em sala de aula
+
+  Busco por uma oportunidade em que posso aprender na prática o que não consigo aprender na teoria
