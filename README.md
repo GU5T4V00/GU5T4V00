@@ -1,7 +1,10 @@
-<img width="1276" height="354" alt="image" src="https://github.com/user-attachments/assets/aaa6bd8b-2054-4e96-93f2-93e5b08d1d9e" />
+<img width="1276" height="354" alt="image" src="https://github.com/user-attachments/assets/58534d4a-fc10-4e82-bf71-98ea191776e6" />
 
 
-# Sobre Mim: <img width="52" height="51" alt="image" src="https://github.com/user-attachments/assets/fd0ab3b2-542e-4568-91c4-3a3ad494a38b" />
+
+# Sobre Mim: <img width="52" height="51" alt="image" src="https://github.com/user-attachments/assets/f70b9be8-d809-4082-bcc5-a6866ebc6278" />
+
+
 
 
 
