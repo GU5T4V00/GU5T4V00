@@ -2,7 +2,7 @@
 
 
 
-# Sobre Mim: <img width="52" height="51" alt="image" src="https://github.com/user-attachments/assets/f70b9be8-d809-4082-bcc5-a6866ebc6278" />
+# <img width="52" height="51" alt="image" src="https://github.com/user-attachments/assets/f70b9be8-d809-4082-bcc5-a6866ebc6278" /> Sobre Mim:
 
 
 
@@ -31,7 +31,7 @@ public class Dev {
 }
 ```
 
-# Já trabalhei com:
+# <img width="48" height="50" alt="image" src="https://github.com/user-attachments/assets/5260e123-8750-44b3-b345-b6a13b0effec" /> Já trabalhei com:
 
 ### Backend
 * ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
