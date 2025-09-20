@@ -31,7 +31,7 @@ public class Dev {
 }
 ```
 
-# <img width="48" height="50" alt="image" src="https://github.com/user-attachments/assets/5260e123-8750-44b3-b345-b6a13b0effec" /> Já trabalhei com:
+# <img width="48" height="50" alt="image" src="Gifs/Scisor.gif" /> Já trabalhei com:
 
 ### Backend
 * ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
