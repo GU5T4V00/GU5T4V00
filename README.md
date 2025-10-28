@@ -45,3 +45,7 @@ public class Dev {
 ### Banco de Dados
 * ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGp6M3A1czY1dm1meW5sOWk0dzkwcHo5YjB1amp1czJnM3A4cWx0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s3egKjArSqy4PIhMcE/giphy.gif"  />
+</div>
